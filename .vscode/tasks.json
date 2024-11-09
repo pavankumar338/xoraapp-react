@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\pavan\\OneDrive\\Documents\\react\\badluck",
+			"problemMatcher": [
+				"$eslint-compact"
+			],
+			"label": "Live Preview: Run Server"
+		},
+		{
+			"type": "npm",
+			"script": "preview",
+			"path": "my-project",
+			"problemMatcher": [],
+			"label": "npm: preview - my-project",
+			"detail": "vite preview"
+		}
+	]
+}
